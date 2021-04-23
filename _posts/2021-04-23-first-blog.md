@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kunal Prashant
+author: kunalprashant
 title: First Blog
 date: 2021-04-23T08:12:35.115Z
 thumbnail-img: /assets/img/posts/remove-background-of-your-images.jfif
@@ -16,19 +16,11 @@ nbshs
 
 nbc
 
-
-
-
-
 > ggggggggggggggggg
 >
-> ![](/assets/img/posts/retouch-product-and-remove-background-complex-images.jpg)
-
-
-
-
-
-
+> ![]()
+>
+>
 
 cssssssssssssssssssssssssf
 
