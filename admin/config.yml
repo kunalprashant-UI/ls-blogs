@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kunalprashant-ui.github.io/ls-blogs
+  repo: kunalprashant-UI/ls-blogs
   branch: master
   site_domain: ls-blogs.netlify.app
 
