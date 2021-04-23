@@ -3,7 +3,7 @@ name: Kunal Prashant
 username: kunalprashant
 bio: "Full Stack Web Developer, based in Jharkhand, India"
 site: 
-avatar: xplor4r.png
+avatar: 7821ecc.jpeg
 email: kunalprashant77@gmail.com
 social:
     - title: "github"
